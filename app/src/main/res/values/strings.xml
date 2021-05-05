@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MagicBall</string>
+    <string name="greeting">Вопрос?</string>
+    <string name="oneQuest">Слишком много вопросов...</string>
+    <string-array name="massages">
+        <item>Да</item>
+        <item>Очень</item>
+        <item>Не думай об этом</item>
+        <item>нет</item>
+        <item>Лучше тебе не знать</item>
+        <item>Не важно</item>
+    </string-array>
+</resources>
